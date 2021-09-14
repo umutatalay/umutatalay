@@ -1,16 +1,6 @@
 ### Hi there 👋,welcome to my github profile
 
 
-<b><h3>Currently learning and working on:</h2> <b>
-  
-<p>
-  <img src="https://camo.githubusercontent.com/9da8dcab869ba1c5c82b4499b523e33ba56f7fbd68cbf2a41ff141084896d61d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65652f2e4e45545f436f72655f4c6f676f2e7376672f3132303070782d2e4e45545f436f72655f4c6f676f2e7376672e706e67" width="50" alt=".NET CORE">
- <img src="https://camo.githubusercontent.com/a06e2a79e1ffe936eaa172847d879e14c823e73f8cee5b6d87332347b8cde8ac/68747470733a2f2f6431796a6a6e70783070353373382e636c6f756466726f6e742e6e65742f7374796c65732f6c6f676f2d7468756d626e61696c2f73332f3038323031342f6a73315f302e706e673f69746f6b3d3966434435623330" width="50" alt="JS">
-  <img src="https://vuejs.org/images/logo.png" width="50" alt="JueJS">
-  <img src="https://caglarbostanci.com.tr/wp-content/uploads/2017/06/jquery-kucuk-icerik-caglarbostanci-com-tr.png" width="50" alt="JueJS">
-    <img src="https://user-images.githubusercontent.com/56693466/107883067-a9d4aa00-6efd-11eb-9eb4-45487a324952.png" width="50" alt="Flutter">
-
-</p>
 <b><h3> Languages and Tools:</h2> <b>
 <p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" alt="HTML5">
@@ -23,3 +13,11 @@
   <img src="https://4.bp.blogspot.com/-Lk6lpnRoRLs/VtVIljroMrI/AAAAAAAABQA/SzZ4vtMTFJI/s1600/mvc5.png" width="50" alt="ASP.NET MVC">
  </p>
 
+
+  <img src="https://camo.githubusercontent.com/9da8dcab869ba1c5c82b4499b523e33ba56f7fbd68cbf2a41ff141084896d61d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65652f2e4e45545f436f72655f4c6f676f2e7376672f3132303070782d2e4e45545f436f72655f4c6f676f2e7376672e706e67" width="50" alt=".NET CORE">
+ <img src="https://camo.githubusercontent.com/a06e2a79e1ffe936eaa172847d879e14c823e73f8cee5b6d87332347b8cde8ac/68747470733a2f2f6431796a6a6e70783070353373382e636c6f756466726f6e742e6e65742f7374796c65732f6c6f676f2d7468756d626e61696c2f73332f3038323031342f6a73315f302e706e673f69746f6b3d3966434435623330" width="50" alt="JS">
+  <img src="https://vuejs.org/images/logo.png" width="50" alt="JueJS">
+  <img src="https://caglarbostanci.com.tr/wp-content/uploads/2017/06/jquery-kucuk-icerik-caglarbostanci-com-tr.png" width="50" alt="JueJS">
+    <img src="https://user-images.githubusercontent.com/56693466/107883067-a9d4aa00-6efd-11eb-9eb4-45487a324952.png" width="50" alt="Flutter">
+
+</p>
